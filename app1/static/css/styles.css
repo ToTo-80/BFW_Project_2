@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(219, 213, 155);
+}
+#uppertitel {
+    color: rgb(4, 8, 44);
+    text-decoration:underline;
+    font-weight: bold;
+}
+#btn_txt{
+    font-weight: bold;
+}
+
+#sectitel{
+    color:rgb(255, 255, 255);
+}
+#liste1 > li{
+    padding-top: 1em;
+}
+
+.form-label{
+    font-size: 1.5em;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.form-text{
+    font-size: 1em;
+    font-style: italic;
+}
